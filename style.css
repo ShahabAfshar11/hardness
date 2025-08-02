@@ -122,12 +122,17 @@ body {
     margin-left: 30px;
 }
 
-img {
-    text-align: center;
-    font-size: 150px;
+.my-pic {
+    width: 900px;
+    height: 500px;
+    border-radius: 27px;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid white;
+
 }
 
-.shahab21 {
+h2 {
     color: white;
     font-size: 70px;
     text-align: center;
