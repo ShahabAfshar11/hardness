@@ -131,9 +131,9 @@ body {
 .myphoto1 {
     display: block;
     margin: 0 auto;
-    width: 900px;
+    width: 950px;
     height: auto;
     border-radius: 20px;
-    border: 2px solid white;
-    margin-left: 60px;
+    border: 3px solid white;
+    margin-left: 70px;
 }
